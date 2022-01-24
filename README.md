@@ -23,5 +23,5 @@ Github page: you are already here :)
 
 Check this video out by Gamer Dad to help you get started: https://www.youtube.com/watch?v=tVIDyepo2WE , more to come as the workflow becomes more complex.
 
-**## Changes to main Warlords Redux branch**
+## **Changes to main Warlords Redux branch**
 This version of Warlords Redux aims to remove balancing issues and to experiment with different configurations of the gamemode.
