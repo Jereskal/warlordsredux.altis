@@ -17,11 +17,13 @@ Warlord Redux 2.0 discord: https://discord.gg/grmzsZE4ua
 
 Warlords Redux Server info: https://www.battlemetrics.com/servers/arma3/5449720
 
-## Want to get involed  
 
-Github page: you are already here :)
+## **Changes from the main Warlords Redux branch**
+This version of Warlords Redux aims to remove balancing issues and to experiment with different configurations of the gamemode.
+
+
+## Want to get involed?  
+
+Original project Github page:https://github.com/Gamer-Dad/warlordsredux.altis
 
 Check this video out by Gamer Dad to help you get started: https://www.youtube.com/watch?v=tVIDyepo2WE , more to come as the workflow becomes more complex.
-
-## **Changes to main Warlords Redux branch**
-This version of Warlords Redux aims to remove balancing issues and to experiment with different configurations of the gamemode.
